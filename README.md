@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./banner.svg" alt="process-inject" width="800">
+</div>
+
 # process-inject
 
 > Red team security tool — authorized use only.
