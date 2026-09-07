@@ -1,8 +1,8 @@
-﻿# process-inject
+# process-inject
 
 > Red team security tool — authorized use only.
 
-`ash
+```bash
 python process_inject.py --help
 ```
 
